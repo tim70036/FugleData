@@ -1,0 +1,1 @@
+Fugle stock data crawler with cron job setting.
